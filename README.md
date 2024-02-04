@@ -1,4 +1,4 @@
-"Dating-app" Deployment Guide
+"DATING APPLICATION" Deployment Guide
 
 This guide walks you through the process of deploying the "Dating application" application on an Amazon EC2 instance using Nginx and Docker. The application is hosted on GitHub, and the deployment involves setting up Nginx as a reverse proxy and using Docker for containerization.
 
